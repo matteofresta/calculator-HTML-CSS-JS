@@ -9,7 +9,7 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100svh;
 }
 
 #background-video {
@@ -48,7 +48,7 @@ body
     flex-direction: column;
     padding: 2rem;
     max-width: 600px;
-    height: 80vh;
+    height: 80svh;
     margin-inline: auto;
     background-color: hsl(0, 0%, 20%);
     border-radius: 30px;
