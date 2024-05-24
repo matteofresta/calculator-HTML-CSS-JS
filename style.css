@@ -167,10 +167,11 @@ button:active
     #calculator
     {
         max-width: 300px;
-        height: 50vh;
+        height: 55vh;
     }
     #display
     {
+        height: 5rem;
         font-size: 4rem;
     }
     button
@@ -178,5 +179,10 @@ button:active
         width: 3.45rem;
         height: 3.45rem;
         font-size: 2rem;
+    }
+    #play-video
+    {
+        right: 1rem;
+        bottom: 1rem;
     }
 }
